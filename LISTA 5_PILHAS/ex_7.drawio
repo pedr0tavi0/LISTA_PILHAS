@@ -1,0 +1,322 @@
+<mxfile host="Electron" modified="2023-04-11T00:08:15.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="eNHJyQq49UsbwZ8KJEwv" version="21.1.2" type="device">
+  <diagram name="Página-1" id="aA5FMODu2BQB6Z5WpTVt">
+    <mxGraphModel dx="1354" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-10" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-11" value="Empilha(P,&#39;b&#39;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-18" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-20" value="&amp;nbsp;pilha_cheia(P)=false&lt;br&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 317.033px; top: 530.231px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 329.283px; top: 530.231px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(1.01322);&quot;&gt;)&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="335" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-21" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-22" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-23" value="Empilha(P,&#39;s&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 455.083px; top: 530.231px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;sSP&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 467.283px; top: 530.226px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(1.0083);&quot;&gt;,’s’)S&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="335" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-24" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-25" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-26" value="a" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-27" value="Empilha(P,&#39;a&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 618.517px; top: 530.231px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 630.717px; top: 530.226px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.997798);&quot;&gt;,’a’)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="335" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-28" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-29" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-30" value="a" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-31" value="c" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-32" value="Empilha(P,&#39;c&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 782.967px; top: 530.231px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 795.167px; top: 530.226px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.99836);&quot;&gt;,’c’),&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="335" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-33" value="Desempilha(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 171.433px; top: 554.431px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 183.633px; top: 554.431px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(1.01322);&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-34" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-35" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-36" value="a" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-39" value="Desempilha(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 321.283px; top: 554.431px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 333.483px; top: 554.431px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(1.01322);&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="625" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-40" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="545" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-41" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-42" value="Empilha(P,&#39;h&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 455.083px; top: 554.431px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 467.283px; top: 554.426px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.997798);&quot;&gt;,’h’)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="312" y="625" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-43" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="332" y="550" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-44" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="332" y="500" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-45" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="332" y="450" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-47" value="Empilha(p,&#39;d&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 618.517px; top: 554.431px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 630.717px; top: 554.426px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.997798);&quot;&gt;,’d’)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="625" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-48" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-50" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="505" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-51" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-52" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-53" value="Empilha(P,&#39;f&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 782.967px; top: 554.431px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 795.167px; top: 554.426px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.989622);&quot;&gt;,’f’)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-54" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="555" y="560" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-55" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="555" y="530" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-56" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="555" y="480" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-57" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="555" y="430" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-58" value="f" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="555" y="380" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-59" value="Desempilha(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 171.433px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 183.633px; top: 578.631px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(1.01322);&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="890" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-60" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="800" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-61" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="760" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-62" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-63" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="660" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-64" value="Empilha(P,&#39;&#39;n&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 290.633px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 302.833px; top: 578.626px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.997798);&quot;&gt;,’n’)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="900" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-65" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="820" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-66" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="790" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-67" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="740" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-68" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-69" value="n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-70" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="860" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-71" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="830" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-72" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="780" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-73" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="730" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-74" value="n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="700" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-75" value="Empilha(P,&#39;b&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 455.083px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 467.283px; top: 578.626px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.997798);&quot;&gt;,’b’)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="343" y="955" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-77" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="860" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-78" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="830" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-79" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="780" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-80" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="730" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-81" value="n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="700" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-83" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="870" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-84" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="840" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-85" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="790" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-86" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="740" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-87" value="n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="710" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-89" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="660" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-90" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="670" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-91" value="pilha_cheia(P)=false&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 644.917px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 657.117px; top: 578.631px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(1.01322);&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="955" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-92" value="Desempilha(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 813.567px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 825.767px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="955" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-93" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="870" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-94" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="840" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-95" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="790" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-96" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="740" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-97" value="n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="710" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-100" value="Empilha(P,&#39;m&#39;)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 455.083px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 467.283px; top: 578.626px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(0.997798);&quot;&gt;,’b’)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="955" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-101" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="875" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-102" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="845" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-103" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="795" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-104" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="745" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-105" value="n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="715" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-106" value="m" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="675" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-107" value="Desempilha(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 813.567px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 825.767px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-108" value="Desempilha(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 813.567px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 825.767px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-109" value="Desempilha(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 813.567px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 825.767px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-110" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1080" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-111" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1050" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-112" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1000" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-113" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="950" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-114" value="n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="920" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-120" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1080" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-121" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1050" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-122" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1000" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-123" value="d" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="950" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-124" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="343" y="1070" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-125" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="343" y="1040" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-126" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="343" y="990" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-127" value="pilha_vazia(P)=false&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 644.917px; top: 578.631px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 657.117px; top: 578.631px; font-size: 18.4px; font-family: sans-serif; transform: scaleX(1.01322);&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-128" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1070" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-129" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1040" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-130" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="475" y="990" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-132" value="Imprime(P)&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 141.04px; top: 627.031px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: transparent; position: absolute; cursor: text; transform-origin: 0% 0%; text-align: start; background-color: rgb(250, 249, 248); left: 153.04px; top: 627.031px; font-size: 18.4px; font-family: sans-serif;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-133" value="b" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1075" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-134" value="s" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1045" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGome4F0hFt2HXQw_-Gd-135" value="H" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="995" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
